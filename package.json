@@ -1,0 +1,27 @@
+{
+  "name": "gc-canvas-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Curious-Georgey/gc-canvas-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Curious-Georgey/gc-canvas-playground/issues"
+  },
+  "homepage": "https://github.com/Curious-Georgey/gc-canvas-playground#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
